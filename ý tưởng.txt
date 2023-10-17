@@ -1,0 +1,4 @@
+0: an gui code=> check mail da dk chua=>
+1: mai chua dk=> gui code=> nhap code vo o nhap=> suss => end
+2: mail da dk=> end=> nhap lai mail=> quay lai 0
+
